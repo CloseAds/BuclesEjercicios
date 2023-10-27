@@ -7,7 +7,7 @@ public class ChatGPT {
         System.out.println("Introduce la alrura de la pirámide");
         int altura = scanner.nextInt();
 
-        for (int i = 1; i >= altura; i--) {
+        for (int i = 1; i <= altura; i++) {
             // Imprime los espacios en blanco
             for (int j = 1; j <= altura - i; j++) {
                 System.out.print(" ");
