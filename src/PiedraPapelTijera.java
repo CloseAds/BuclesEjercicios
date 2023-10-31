@@ -47,7 +47,7 @@ public class PiedraPapelTijera {
                     break;
             }
 
-            int elegidoOrdenador = (int) (Math.random() * 3 + 1);
+            int elegidoOrdenador = (int) (Math.random() * 3 + 1); // segundo int para pasarlo a numero entero
 
             comprobarJuego(elegidoOrdenador, elegidoJugador);
 

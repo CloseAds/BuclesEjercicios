@@ -14,15 +14,8 @@ public class Múltiplo3_7 {
 
                 if ( i % numero1==0 && i % numero2==0 ){
                     System.out.println(i);
-
-
-
-
-
                 }
 
             }
         }
-
-
 }

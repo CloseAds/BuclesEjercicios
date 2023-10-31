@@ -24,8 +24,6 @@ public class DibujoPirámide{
         }while(altura != -1);
 
 
-
-
     }
 
     private static void piramide(int altura) {
