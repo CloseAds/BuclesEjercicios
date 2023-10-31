@@ -23,4 +23,4 @@ public class AdivinaNumero {
         System.out.println("El numero es: " + num1);
     }
 }
-
+// buenas
